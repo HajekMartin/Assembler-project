@@ -1,0 +1,101 @@
+MPLINK 5.09, LINKER
+Linker Map File - Created Thu Dec 08 08:25:18 2022
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000002
+                   .cinit    romdata   0x000001    program   0x000004
+                   .org_1       code   0x000004    program   0x000220
+.config_8007_BUILD/DEFAULT/PRODUCTION/SEMESTR       code   0x008007    program   0x000002
+.config_8008_BUILD/DEFAULT/PRODUCTION/SEMESTR       code   0x008008    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000002      
+                            0x000004    0x000113      
+                            0x008007    0x008008      
+            277 out of 4103 program addresses used, program memory utilization is 6%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                  Bin2Bcd   0x0000d8    program     static D:\ARP\Semestralka\Display.inc
+                 Byte2Seg   0x0000f7    program     static D:\ARP\Semestralka\Display.inc
+               Config_IOs   0x0000ab    program     static D:\ARP\Semestralka\Config_IOs.inc
+               Config_SPI   0x0000be    program     static D:\ARP\Semestralka\Display.inc
+           DecrementState   0x000032    program     static D:\ARP\Semestralka\semestralka.asm
+                 Delay100   0x0000a1    program     static D:\ARP\Semestralka\semestralka.asm
+                 Delay_ms   0x0000a2    program     static D:\ARP\Semestralka\semestralka.asm
+                  Display   0x000041    program     static D:\ARP\Semestralka\semestralka.asm
+           IncrementState   0x000029    program     static D:\ARP\Semestralka\semestralka.asm
+                     Main   0x000021    program     static D:\ARP\Semestralka\semestralka.asm
+                    OutLp   0x0000a3    program     static D:\ARP\Semestralka\semestralka.asm
+           RotationChange   0x00003f    program     static D:\ARP\Semestralka\semestralka.asm
+               SendByte7S   0x000109    program     static D:\ARP\Semestralka\Display.inc
+                   ShLoop   0x0000e3    program     static D:\ARP\Semestralka\Display.inc
+              SpeedChange   0x00003b    program     static D:\ARP\Semestralka\semestralka.asm
+                    Start   0x00000f    program     static D:\ARP\Semestralka\semestralka.asm
+                   State0   0x000079    program     static D:\ARP\Semestralka\semestralka.asm
+                   State1   0x00007d    program     static D:\ARP\Semestralka\semestralka.asm
+                   State2   0x000081    program     static D:\ARP\Semestralka\semestralka.asm
+                   State3   0x000085    program     static D:\ARP\Semestralka\semestralka.asm
+                   State4   0x000089    program     static D:\ARP\Semestralka\semestralka.asm
+                   State5   0x00008d    program     static D:\ARP\Semestralka\semestralka.asm
+                   State6   0x000091    program     static D:\ARP\Semestralka\semestralka.asm
+                   State7   0x000095    program     static D:\ARP\Semestralka\semestralka.asm
+                   State8   0x000099    program     static D:\ARP\Semestralka\semestralka.asm
+                   State9   0x00009d    program     static D:\ARP\Semestralka\semestralka.asm
+                ZeroState   0x00002f    program     static D:\ARP\Semestralka\semestralka.asm
+               ZeroState2   0x000038    program     static D:\ARP\Semestralka\semestralka.asm
+             _.org_1_00A7   0x0000a7    program     static D:\ARP\Semestralka\semestralka.asm
+             _.org_1_00C8   0x0000c8    program     static D:\ARP\Semestralka\Display.inc
+             _.org_1_00CD   0x0000cd    program     static D:\ARP\Semestralka\Display.inc
+             _.org_1_00D2   0x0000d2    program     static D:\ARP\Semestralka\Display.inc
+             _.org_1_010E   0x00010e    program     static D:\ARP\Semestralka\Display.inc
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    Start   0x00000f    program     static D:\ARP\Semestralka\semestralka.asm
+                     Main   0x000021    program     static D:\ARP\Semestralka\semestralka.asm
+           IncrementState   0x000029    program     static D:\ARP\Semestralka\semestralka.asm
+                ZeroState   0x00002f    program     static D:\ARP\Semestralka\semestralka.asm
+           DecrementState   0x000032    program     static D:\ARP\Semestralka\semestralka.asm
+               ZeroState2   0x000038    program     static D:\ARP\Semestralka\semestralka.asm
+              SpeedChange   0x00003b    program     static D:\ARP\Semestralka\semestralka.asm
+           RotationChange   0x00003f    program     static D:\ARP\Semestralka\semestralka.asm
+                  Display   0x000041    program     static D:\ARP\Semestralka\semestralka.asm
+                   State0   0x000079    program     static D:\ARP\Semestralka\semestralka.asm
+                   State1   0x00007d    program     static D:\ARP\Semestralka\semestralka.asm
+                   State2   0x000081    program     static D:\ARP\Semestralka\semestralka.asm
+                   State3   0x000085    program     static D:\ARP\Semestralka\semestralka.asm
+                   State4   0x000089    program     static D:\ARP\Semestralka\semestralka.asm
+                   State5   0x00008d    program     static D:\ARP\Semestralka\semestralka.asm
+                   State6   0x000091    program     static D:\ARP\Semestralka\semestralka.asm
+                   State7   0x000095    program     static D:\ARP\Semestralka\semestralka.asm
+                   State8   0x000099    program     static D:\ARP\Semestralka\semestralka.asm
+                   State9   0x00009d    program     static D:\ARP\Semestralka\semestralka.asm
+                 Delay100   0x0000a1    program     static D:\ARP\Semestralka\semestralka.asm
+                 Delay_ms   0x0000a2    program     static D:\ARP\Semestralka\semestralka.asm
+                    OutLp   0x0000a3    program     static D:\ARP\Semestralka\semestralka.asm
+             _.org_1_00A7   0x0000a7    program     static D:\ARP\Semestralka\semestralka.asm
+               Config_IOs   0x0000ab    program     static D:\ARP\Semestralka\Config_IOs.inc
+               Config_SPI   0x0000be    program     static D:\ARP\Semestralka\Display.inc
+             _.org_1_00C8   0x0000c8    program     static D:\ARP\Semestralka\Display.inc
+             _.org_1_00CD   0x0000cd    program     static D:\ARP\Semestralka\Display.inc
+             _.org_1_00D2   0x0000d2    program     static D:\ARP\Semestralka\Display.inc
+                  Bin2Bcd   0x0000d8    program     static D:\ARP\Semestralka\Display.inc
+                   ShLoop   0x0000e3    program     static D:\ARP\Semestralka\Display.inc
+                 Byte2Seg   0x0000f7    program     static D:\ARP\Semestralka\Display.inc
+               SendByte7S   0x000109    program     static D:\ARP\Semestralka\Display.inc
+             _.org_1_010E   0x00010e    program     static D:\ARP\Semestralka\Display.inc
+
+

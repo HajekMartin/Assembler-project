@@ -1,0 +1,36 @@
+Message[302] D:\ARP\SEMESTRALKA\SEMESTRALKA.ASM 35 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\SEMESTRALKA.ASM 37 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\SEMESTRALKA.ASM 41 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\SEMESTRALKA.ASM 42 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\SEMESTRALKA.ASM 45 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\SEMESTRALKA.ASM 53 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\SEMESTRALKA.ASM 60 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\SEMESTRALKA.ASM 61 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\SEMESTRALKA.ASM 62 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] D:\ARP\SEMESTRALKA\SEMESTRALKA.ASM 93 : Using default destination of 1 (file).
+Message[305] D:\ARP\SEMESTRALKA\SEMESTRALKA.ASM 107 : Using default destination of 1 (file).
+Warning[202] D:\ARP\SEMESTRALKA\SEMESTRALKA.ASM 121 : Argument out of range.  Least significant bits used.
+Message[305] D:\ARP\SEMESTRALKA\SEMESTRALKA.ASM 126 : Using default destination of 1 (file).
+Message[302] D:\ARP\SEMESTRALKA\CONFIG_IOS.INC 3 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\CONFIG_IOS.INC 4 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\CONFIG_IOS.INC 5 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\CONFIG_IOS.INC 8 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\CONFIG_IOS.INC 10 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\CONFIG_IOS.INC 12 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\CONFIG_IOS.INC 15 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\CONFIG_IOS.INC 17 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\CONFIG_IOS.INC 19 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\DISPLAY.INC 18 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\DISPLAY.INC 20 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\DISPLAY.INC 26 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\DISPLAY.INC 27 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\DISPLAY.INC 29 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\DISPLAY.INC 31 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\DISPLAY.INC 32 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\DISPLAY.INC 34 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\DISPLAY.INC 36 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\DISPLAY.INC 37 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\DISPLAY.INC 39 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\DISPLAY.INC 123 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\DISPLAY.INC 124 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ARP\SEMESTRALKA\DISPLAY.INC 126 : Register in operand not in bank 0.  Ensure that bank bits are correct.
